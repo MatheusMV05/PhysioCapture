@@ -193,6 +193,12 @@ credentials.json
 *.sqlite3
 *.db
 
+# MongoDB
+mongodb_data/
+dump/
+*.bson
+*.metadata.json
+
 # Uploads e arquivos de mídia (ajuste conforme necessário)
 /uploads/
 /media/
